@@ -17,7 +17,7 @@ Wing area and thus aspect ratio will result from the determination of the chord 
 
 ![JX-GS-15](images/JX-GS-15.png "JX-GS-15")
 
-All the airfoils of the wing can be found [here](https://github.com/jxjo/Airfoils/tree/main/JX-GS). Development of the JX-GS airfoil family (in Geram we use the term “Strak”) was done in several iterations and was described in detail in [Entwicklung eines F3F-Profils]( https://www.rc-network.de/threads/entwicklung-eines-f3f-profils.787618/). This thread on RC-Network has also become a great fund for questions about airfoil development due to the numerous discussion contributions.
+All the airfoils of the wing can be found [here](https://github.com/jxjo/Airfoils/tree/main/JX-GS). Development of the JX-GS airfoil family (in Geram we use the term "Strak") was done in several iterations and was described in detail in [Entwicklung eines F3F-Profils]( https://www.rc-network.de/threads/entwicklung-eines-f3f-profils.787618/). This thread on RC-Network has also become a great fund for questions about airfoil development due to the numerous discussion contributions.
 
 Therefore, at this point only a short summary of JX-GS:
 
@@ -29,5 +29,5 @@ Therefore, at this point only a short summary of JX-GS:
 The name of the individual airfoils gives an indication of their optimal conditions of use within the wingspan - see [here](https://github.com/jxjo/Airfoils/blob/main/JX-GS/readme.md). 
 Drawing the individual airfoils with their optimal chord length, shows the wide range of chord this airfoil family covers.
 
-## next: [Wing Design Part 2 - to come] <!-- (wing_design_2) -->
+## next: [Wing Design Part 2](wing_design_2)
 
