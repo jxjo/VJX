@@ -85,6 +85,6 @@ What would we do without great persons and their awesome contributions?
 -	Daniel Prosser -  Xoptfoil
 -	and many others... 
 
-A special thank you to my patient punching partners Tobias, Schill, Peter Wick, Matthias Boese.
+A special thank you to my patient punching partners Tobias Schill, Peter Wick, Matthias Boese.
 
 ![V-JX](images/V-JX_top_view.jpg "V-JX perspective view")
