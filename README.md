@@ -12,7 +12,7 @@ Within this repository, we want to make a "full stack description" - i.e. from t
 
 ### [Preliminary remarks on the procedure](#preliminary-remarks-on-the-procedure)
 ### Wing
-* [Design - Airfoil sections, planform, control surfaces (aileron, flap)](wing/design/wing_design_1) 
+* [Design - Airfoil sections, planform, control surfaces (aileron, flap)](wing/design/wing_design_1.md) 
 * Build - CAD, molds and carbon fiber build
 ###	Tail
 * [Design - Airfoil sections, planform, ruddervator 
