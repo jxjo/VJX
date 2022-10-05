@@ -77,7 +77,7 @@ After a few iterations, the preliminary interim result is ready. An idealized wi
 
 Interim conclusion: The base design of the cord length distribution is relatively "sharp" with only a few lift reserves in the outer wing. Regarding lift reserves, however, an adapted flap depth should give an extra push... More on that later. 
 
-In the next part, we first compare the depth distribution of V-JX with other, current F3F models and then take a closer look at the rudder depth distribution along wingspan. 
+In the next part, we first compare the chord length distribution of V-JX with other, current F3F models and then take a closer look at the rudder depth distribution along wingspan. 
 
-## next: Wing Design Part 3 <!-- (wing_design_3) -->
+## next: [Wing Design Part 3](wing_design_3.md)
 
