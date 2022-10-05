@@ -61,4 +61,4 @@ In the [data subdirectory](data) you'll the FLZ_vortex project file with the com
 
 In the 4th and final part of the wing design, we take a look at the performance of the wing in Xflr5 in order to finally determine the wing plan including the position of the airfoil sections. 
 
-<!-- ## next: [Wing Design Part 3](wing_design_3.md) >
+## next: [Wing Design Part 3](wing_design_3.md)
