@@ -27,7 +27,9 @@ Therefore, at this point only a short summary of JX-GS:
 -	The airfoils are "synthetic" - they were created by [Xopfoil-JX](https://github.com/jxjo/Xoptfoil-JX/releases) without a human touch on the airfoil surface
 
 The name of the individual airfoils gives an indication of their optimal conditions of use within the wingspan - see [here](https://github.com/jxjo/Airfoils/blob/main/JX-GS/readme.md). 
-Drawing the individual airfoils with their optimal chord length, shows the wide range of chord this airfoil family covers.
+Drawing the individual airfoils with their optimal chord length, shows the wide range of chord this airfoil family covers at a wing:
+
+![JX-GS  Strak](images/JX-GS-Strak.png)
 
 ## next: [Wing Design Part 2](wing_design_2.md)
 
