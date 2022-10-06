@@ -53,7 +53,7 @@ As a test, I gave the previously sharp edged airfoil a small trailing edge gap a
 
 *In the xfoil calculation of the circulation (-> lift), the trailing edge is of particular importance. There, the Kutta condition applies:*
 
-    The sharp trailing edge of a wing is not flown around, but the adjacent flow flows smoothly there. In an adjacent flow over a two-dimensional body with a sharp trailing edge, a circulation builds up that is just large enough that the rear stagnation point is at the trailing edge. 
+The sharp trailing edge of a wing is not flown around, but the adjacent flow flows smoothly there. In an adjacent flow over a two-dimensional body with a sharp trailing edge, a circulation builds up that is just large enough that the rear stagnation point is at the trailing edge. 
 
 *Important in this context is the phrase "sharp trailing edge".  In the case of a trailing edge gap, Xfoil inserts an additional panel to close this gap and also to meet the condition of a closed airfoil. Obviously, this blunt trailing edge leads to a modified algorithm for calculating the circulation and also to the tricky question of how different states laminar-turbulent on the top and bottom at the trailing edge are merged.*
 
