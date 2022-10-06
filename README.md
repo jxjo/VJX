@@ -12,10 +12,10 @@ Within this repository, we want to make a "full stack description" - i.e. from t
 
 ### [Preliminary remarks on the procedure](#preliminary-remarks-on-the-procedure)
 ### Wing
-* [Design - Airfoil sections, planform, control surfaces (aileron, flap)](wing/design/wing_design_1.md) 
+* [Design - Airfoil sections, planform, control surfaces](wing/design/wing_design_1.md) 
 * Build - CAD, molds and carbon fiber build
 ###	Tail
-* [Design - Airfoil sections, planform, ruddervator 
+* [Design - Airfoil sections, planform, ruddervator](tail/tail_design.md) 
 * Build - CAD, molds and carbon fiber build
 ### Fuselage 
 * Design - Outline 
@@ -74,6 +74,7 @@ The property profile  of V-JX has been defined as follows with a comparative cla
 Or more colloquially: "With good lift on the slope, it should be a fast, agile at the same time good-natured rocket ...".
 
 The goal was set.  Now it's time to work!  😉
+We'll start with the [wing design...](wing/design/wing_design_1.md) 
 
 
 ## Acknowledgements 
@@ -87,4 +88,16 @@ What would we do without great persons and their awesome contributions?
 
 A special thank you to my patient punching partners Tobias Schill, Peter Wick, Matthias Boese.
 
+Have Fun!
+
+Jochen Guenzel & Mario Perner 
+
 ![V-JX](images/V-JX_top_view.jpg "V-JX perspective view")
+
+## Project History 
+- 2021 - June: Projet start 
+- 2021 - October: First prototype wing with vantage fuselage abd tail 
+- 2022 - April: Flight evaluations started (brought some delay) 
+- 2022 - July: Restart of flight evaluations with Tobis Reik and Thorsten Folkers
+- 2022 - September: First F3F contest participation in Denmark / Sealand
+- 2023 - October: F3F WC - serveral rounds fown by Thorsten Fokers
