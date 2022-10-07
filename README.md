@@ -18,8 +18,8 @@ Within this repository, we want to make a "full stack description" - i.e. from t
 * [Design - Airfoil sections, planform, ruddervator](tail/tail_design.md) 
 * Build - CAD, molds and carbon fiber build
 ### Fuselage 
-* Design - Outline 
-* Build - CAD, molds and carbon fiber build
+* [Design - Outline, CAD](fuselage/fuselage_design.md) 
+* Build - Molds and carbon fiber build
 
 ### .
 

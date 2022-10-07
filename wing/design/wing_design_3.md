@@ -9,7 +9,7 @@ One of the few ways to answer these questions is to check whether the current de
 
 For this purpose, the depth distribution of some current F3F models was measured from the published side views and scaled to the wingspan and root chord length of V-JX. 
 
-![Compasrion chord length](images/comparsion_chord_distribution.png)
+![Comparsion chord length](images/comparsion_chord_distribution.png)
 
 <sub>Comparison of the normalized **approximate** chord length distribution of current F3F models. The edges of the design corridor form Quantum, with almost elliptical chord length distribution and Pitbull 2 with strong pronounced super elliptical distribution.</sub>
 
