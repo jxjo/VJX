@@ -98,6 +98,6 @@ Jochen Guenzel & Mario Perner
 - 2021 - June: Projet start 
 - 2021 - October: First prototype wing with vantage fuselage abd tail 
 - 2022 - April: Flight evaluations started (brought some delay) 
-- 2022 - July: Restart of flight evaluations with Tobis Reik and Thorsten Folkers
+- 2022 - July: Restart of flight evaluations with Tobias Reik and Thorsten Folkers
 - 2022 - September: First F3F contest participation in Denmark / Sealand
-- 2023 - October: F3F WC - serveral rounds fown by Thorsten Fokers
+- 2022 - October: F3F WC - serveral rounds flown by Thorsten Folkers
