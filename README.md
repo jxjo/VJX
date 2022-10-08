@@ -11,15 +11,22 @@ Within this repository, we want to make a "full stack description" - i.e. from t
 ## Chapters
 
 ### [Preliminary remarks on the procedure](#preliminary-remarks-on-the-procedure)
-### Wing
+
+### [Wing](wing/design/wing_design_1.md)
 * [Design - Airfoil sections, planform, control surfaces](wing/design/wing_design_1.md) 
-* Build - CAD, molds and carbon fiber build
-###	Tail
+* [CAD](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12199653) - on RCN (de)
+* [Molds and Build](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12201770) - on RCN (de)
+
+###	[Tail](tail/tail_design.md)
 * [Design - Airfoil sections, planform, ruddervator](tail/tail_design.md) 
-* Build - CAD, molds and carbon fiber build
-### Fuselage 
+* [CAD and Molds](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12285083) - on RCN (de)
+
+### [Fuselage](fuselage/fuselage_design.md) 
 * [Design - Outline, CAD](fuselage/fuselage_design.md) 
-* Build - Molds and carbon fiber build
+* [Molds](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12289032) - on RCN (de)
+
+### [Acknowledgements](#acknowledgements)
+### [Project History](#project-history)
 
 ### .
 
