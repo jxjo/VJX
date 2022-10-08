@@ -25,10 +25,9 @@ Within this repository, we want to make a "full stack description" - i.e. from t
 * [Design - Outline, CAD](fuselage/fuselage_design.md) 
 * [Molds](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12289032) - on RCN (de)
 
-### [Acknowledgements](#acknowledgements)
-### [Project History](#project-history)
+### [Acknowledgement](#acknowledgements)
+### [History](#project-history)
 
-### .
 
 ![V-JX](images/V-JX_front_view.jpg "V-JX perspective view")
 ## Preliminary remarks on the procedure
