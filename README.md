@@ -63,7 +63,7 @@ The key is certainly that there can no longer be a one-dimensional "better" in t
 
 The difference lies in the specific characteristics of the models, which in their sum are decisive for whether a pilot controls an "optimal sports device" for him under certain conditions.
 
-The property profile  of V-JX has been defined as follows with a comparative classification between o (=weak) and ooooo (=top).
+The property profile of V-JX has been defined as follows with a comparative classification between o (=weak) and ooooo (=top).
 
 |  Aspect                     | Score   |
 |-----------------------------|---------|
@@ -88,9 +88,15 @@ We'll start with the [wing design...](wing/design/wing_design_1.md)
 
 <img src="./images/V-JX_at_WC2022_1.jpg" width="250" /> <img src="./images/V-JX_at_WC2022_2.jpg" width="250" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="250" />
 <p align="center">
-<sup>V-JX prototype at F3F WC 2022 with Vantage fuselgae and tail - Photos courtesy Pierre Rondel </sup>
+<sup>V-JX prototype at F3F WC 2022 with Vantage fuselage and tail flown by Thorsten Folkers - Photos courtesy Pierre Rondel </sup>
 </p>
 
+First flight experiences up to now showed a very close behaviour of V-JX to the property profile which was defined when starting the project. 
+
+V-JX likes a wider, speed and energy oriented flight style. The faster, the better... Pilots emphasize the excellent acceleration when lift load is going towards 0 (Cl getting close to 0). 
+
+Crucial for good flight results is the intensive use of flaps - both for the static deflection within a certain flight phase (bowling, enter course, on course) and also dynamically using snap flap to optimize for the current Cl load (curve acceleration). 
+Although V-JX is easy fly being good-natured, V-JX isn't "everybodies darling" - it want's to be tweaked from pilots who want to get the best out of the model in regard to a certain flight style. This said, it's fascinating what Thorsten got out of V-JX at F3F WC 2022 in such a short time of preparation!
 
 ## Acknowledgements 
 
