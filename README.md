@@ -87,16 +87,16 @@ We'll start with the [wing design...](wing/design/wing_design_1.md)
 
 ## Flight experiences 
 
-<img src="./images/V-JX_at_WC2022_1.jpg" width="250" /> <img src="./images/V-JX_at_WC2022_2.jpg" width="250" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="250" />
+<img src="./images/V-JX_at_WC2022_2.jpg" width="350" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="350" />
 <p align="left">
 <sup>V-JX prototype at F3F WC 2022 with Vantage fuselage and tail flown by Thorsten Folkers - Photos courtesy Pierre Rondel </sup>
 </p>
 
 [<img src="https://img.youtube.com/vi/vzmBOqD7ym0/maxresdefault.jpg" width="350" />](https://youtu.be/vzmBOqD7ym0)
+[<img src="https://img.youtube.com/vi/EWIMaU6y8Lc/maxresdefault.jpg" width="350" />](https://youtu.be/EWIMaU6y8Lc)
 <p align="left">
-<sup>V-JX on a training flight - Pilot Thorsten Folkers - Click to see on Youtube </sup>
+<sup>V-JX on a training flight and on WC round 1- Pilot Thorsten Folkers - Click to see on Youtube </sup>
 </p>
-
 
 First flight experiences up to now showed a very close behaviour of V-JX to the property profile which was defined when starting the project. 
 
