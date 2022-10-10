@@ -81,22 +81,29 @@ The property profile of V-JX has been defined as follows with a comparative clas
 Or more colloquially: "With good lift on the slope, it should be a fast, agile at the same time good-natured rocket ...".
 
 The goal was set.  Now it's time to work!  😉
+
 We'll start with the [wing design...](wing/design/wing_design_1.md) 
 
 
 ## Flight experiences 
 
 <img src="./images/V-JX_at_WC2022_1.jpg" width="250" /> <img src="./images/V-JX_at_WC2022_2.jpg" width="250" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="250" />
-<p align="center">
+<p align="left">
 <sup>V-JX prototype at F3F WC 2022 with Vantage fuselage and tail flown by Thorsten Folkers - Photos courtesy Pierre Rondel </sup>
 </p>
+
+[<img src="https://img.youtube.com/vi/vzmBOqD7ym0/maxresdefault.jpg" width="350" />](https://youtu.be/vzmBOqD7ym0)
+<p align="left">
+<sup>V-JX on a training flight - Pilot Thorsten Folkers - Click to see on Youtube </sup>
+</p>
+
 
 First flight experiences up to now showed a very close behaviour of V-JX to the property profile which was defined when starting the project. 
 
 V-JX likes a wider, speed and energy oriented flight style. The faster, the better... Pilots emphasize the excellent acceleration when lift load is going towards 0 (Cl getting close to 0). 
 
 Crucial for good flight results is the intensive use of flaps - both for the static deflection within a certain flight phase (bowling, enter course, on course) and also dynamically using snap flap to optimize for the current Cl load (curve acceleration). 
-Although V-JX is easy fly being good-natured, V-JX isn't "everybodies darling" - it want's to be tweaked from pilots who want to get the best out of the model in regard to a certain flight style. This said, it's fascinating what Thorsten got out of V-JX at F3F WC 2022 in such a short time of preparation!
+Although V-JX is easy to fly being good-natured, V-JX isn't "everybodies darling" - it want's to be tweaked from pilots who want to get the best out of the model in regard to a certain flight style. This said, it's fascinating what Thorsten got out of V-JX at F3F WC 2022 in such a short time of preparation!
 
 ## Acknowledgements 
 
