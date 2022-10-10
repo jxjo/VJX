@@ -1,6 +1,4 @@
----
 <meta name="google-site-verification" content="504PHaATEavmWO3tgVmJE1HJB-VxiinR-1om5KBc_IM" />
----
 
 # Project V-JX
 A fast glider for slopes and F3F competition. 
