@@ -25,6 +25,7 @@ Within this repository, we want to make a "full stack description" - i.e. from t
 * [Design - Outline, CAD](fuselage/fuselage_design.md) 
 * [Molds](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12289032) - on RCN (de)
 
+### [Flight experiences](#flight_experiences)
 ### [Acknowledgement](#acknowledgements)
 ### [History](#project-history)
 
@@ -81,6 +82,14 @@ Or more colloquially: "With good lift on the slope, it should be a fast, agile a
 
 The goal was set.  Now it's time to work!  😉
 We'll start with the [wing design...](wing/design/wing_design_1.md) 
+
+
+## Flight experiences 
+
+<img src="./images/V-JX_at_WC2022_1.jpg" width="250" /> <img src="./images/V-JX_at_WC2022_2.jpg" width="250" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="250" />
+<p align="center">
+<sup>V-JX prototype at F3F WC 2022 with Vantage fuselgae and tail - Photos courtesy Pierre Rondel </sup>
+</p>
 
 
 ## Acknowledgements 
