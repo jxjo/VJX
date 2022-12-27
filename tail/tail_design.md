@@ -1,8 +1,8 @@
-# Project V-JX - Tail Design
+# Project VJX - Tail Design
 
-![V-JX Tail](images/V-JX_wing_tail_teaser.png "Wing Layout")
+![VJX Tail](images/V-JX_wing_tail_teaser.png "Wing Layout")
 
-For the design of the tail wings, proven empirical values were largely used - i.e. initially no experiments in order not to introduce further risk variables into the overall system "V-JX". 
+For the design of the tail wings, proven empirical values were largely used - i.e. initially no experiments in order not to introduce further risk variables into the overall system "VJX". 
 
 With the rather small v-tail angle of 97 degrees, the emphasis is placed on good directional stability and damping around the vertical axis. Typically, the v-tail angle of F3F models is between 97 and 102 degrees. I was happy to follow the recommendation of Mario, who is a convinced 97 degrees fan ...
 
@@ -24,14 +24,14 @@ The rudder chord length was finally set at a rather generous 30%.
 
 This completes the design of the wing plan:
 
-![V-JX Tail plan](images/Tail_wing_plan.png "Wing Layout")
+![VJX Tail plan](images/Tail_wing_plan.png "Wing Layout")
 
 
 ## Airfoils
 
 As part of the development of the JX-GS airfoil family, a mini airfoil family JX-Fe was also developed for the tail wing.  
 
-The two airfoils have been optimized for use with V-JX with regard to low drag between cl  0.0 – 0.4 with simultaneous robust max angle of attack.  The root airfoil has 7.2% thickness, the tip airfoil  7.0% thickness. 
+The two airfoils have been optimized for use with VJX with regard to low drag between cl  0.0 – 0.4 with simultaneous robust max angle of attack.  The root airfoil has 7.2% thickness, the tip airfoil  7.0% thickness. 
  
 ![JX-Fe Polars](images/JX-Fe_Polars.png)
 

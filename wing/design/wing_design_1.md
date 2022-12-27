@@ -1,7 +1,7 @@
-# Project V-JX - Wing Design Part 1
+# Project VJX - Wing Design Part 1
 
 
-![V-JX](images/wing_teaser.png "Wing Layout")
+![VJX](images/wing_teaser.png "Wing Layout")
 
 ## Key design data of the wing 
 

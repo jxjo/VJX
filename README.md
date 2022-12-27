@@ -1,9 +1,11 @@
-# Project V-JX
+<sup>Project renamed from V-JX to VJX in December 2022 </sup>
+
+# Project VJX
 A fast glider for slopes and F3F competition. 
 
-![V-JX](images/V-JX_perspective_view.jpg "V-JX perspective view")
+![VJX](images/V-JX_perspective_view.jpg "VJX perspective view")
 
-V-JX is a common project of Jochen Guenzel and Mario Perner where Jochen focuses on aerodynamic design and Mario on engineering and building of the model. 
+VJX is a common project of Jochen Guenzel and Mario Perner where Jochen focuses on aerodynamic design and Mario on engineering and building of the model. 
 
 Within this repository, we want to make a "full stack description" - i.e. from the aerodynamic design to the final build out of molds. As far as possible, we will make the calculations and plans available "open source" and thus also invite to a lively discussion, in which we all will hopefully be a bit smarter in the end.
 
@@ -30,10 +32,10 @@ Within this repository, we want to make a "full stack description" - i.e. from t
 ### [History](#project-history)
 
 
-![V-JX](images/V-JX_front_view.jpg "V-JX perspective view")
+![VJX](images/V-JX_front_view.jpg "VJX perspective view")
 ## Preliminary remarks on the procedure
 
-The approach with V-JX is somehow atypical for the design of a new model. 
+The approach with VJX is somehow atypical for the design of a new model. 
 
 It all started with the [JX-GS airfoil family](https://github.com/jxjo/Airfoils/tree/main/JX-GS)   , which was developed specifically for F3F, but was not based on a specific model design.  In the course of time, however, thoughts matured as to what an optimal wing for this airfoil family should look like.  Which eventually resulted in a first wing design. 
 
@@ -41,7 +43,7 @@ Since a "proof of concept" of this wing design should be carried out as early as
 
 We opted for the ["Vantage"](https://ccm.in.ua/en/catalog/r-c-models/vantage/), Mario's current design for F3F/F3B.
 
-The Vantage has perfect dimensions of a current F3F model, which makes the fuselage and tail very well suited to be equipped with a new wing module to evaluate the characteristics of V-JX - also in comparison. 
+The Vantage has perfect dimensions of a current F3F model, which makes the fuselage and tail very well suited to be equipped with a new wing module to evaluate the characteristics of VJX - also in comparison. 
 
 In the development of a new plane, such a separate consideration of the individual components wing, tail and fuselage can be dangerous. The mutual interaction is too complex to achieve an optimized overall design. On the other hand, over the past 30 years, with countless great designs, a narrow design corridor has emerged as to what an optimal model for the F3F flight task should look like. 
 
@@ -55,7 +57,7 @@ A further aspect or guideline for the aerodynamic design, including the profile 
 
 The danger of not hitting the "sweet spot" of a narrow optimum under competition flight conditions and thus having to accept significant performance losses far outweighs the prospect of minimal profits compared to a solution with a broad optimum.   
 
-### Design Goals of V-JX
+### Design Goals of VJX
 
 "Pretty daring" you could say. To get involved in the round of excellent and mature F3F models such as the Freestylers, Pitbulls, Shintos, Vantage and the numerous other top models. To be even "better" in the end!
 
@@ -63,7 +65,7 @@ The key is certainly that there can no longer be a one-dimensional "better" in t
 
 The difference lies in the specific characteristics of the models, which in their sum are decisive for whether a pilot controls an "optimal sports device" for him under certain conditions.
 
-The property profile of V-JX has been defined as follows with a comparative classification between o (=weak) and ooooo (=top).
+The property profile of VJX has been defined as follows with a comparative classification between o (=weak) and ooooo (=top).
 
 |  Aspect                     | Score   |
 |-----------------------------|---------|
@@ -89,21 +91,21 @@ We'll start with the [wing design...](wing/design/wing_design_1.md)
 
 <img src="./images/V-JX_at_WC2022_2.jpg" width="350" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="350" />
 <p align="left">
-<sup>V-JX prototype at F3F WC 2022 with Vantage fuselage and tail flown by Thorsten Folkers - Photos courtesy Pierre Rondel </sup>
+<sup>VJX prototype at F3F WC 2022 with Vantage fuselage and tail flown by Thorsten Folkers - Photos courtesy Pierre Rondel </sup>
 </p>
 
 [<img src="https://img.youtube.com/vi/vzmBOqD7ym0/maxresdefault.jpg" width="350" />](https://youtu.be/vzmBOqD7ym0)
 [<img src="https://img.youtube.com/vi/EWIMaU6y8Lc/maxresdefault.jpg" width="350" />](https://youtu.be/EWIMaU6y8Lc)
 <p align="left">
-<sup>V-JX on a training flight and on WC round 1- Pilot Thorsten Folkers - Click to see on Youtube </sup>
+<sup>VJX on a training flight and on WC round 1- Pilot Thorsten Folkers - Click to see on Youtube </sup>
 </p>
 
-First flight experiences up to now showed a very close behaviour of V-JX to the property profile which was defined when starting the project. 
+First flight experiences up to now showed a very close behaviour of VJX to the property profile which was defined when starting the project. 
 
-V-JX likes a wider, speed and energy oriented flight style. The faster, the better... Pilots emphasize the excellent acceleration when lift load is going towards 0 (Cl getting close to 0). 
+VJX likes a wider, speed and energy oriented flight style. The faster, the better... Pilots emphasize the excellent acceleration when lift load is going towards 0 (Cl getting close to 0). 
 
 Crucial for good flight results is the intensive use of flaps - both for the static deflection within a certain flight phase (bowling, enter course, on course) and also dynamically using snap flap to optimize for the current Cl load (curve acceleration). 
-Although V-JX is easy to fly being good-natured, V-JX isn't "everybodies darling" - it want's to be tweaked from pilots who want to get the best out of the model in regard to a certain flight style. This said, it's fascinating what Thorsten got out of V-JX at F3F WC 2022 in such a short time of preparation!
+Although VJX is easy to fly being good-natured, VJX isn't "everybodies darling" - it want's to be tweaked from pilots who want to get the best out of the model in regard to a certain flight style. This said, it's fascinating what Thorsten got out of VJX at F3F WC 2022 in such a short time of preparation!
 
 ## Acknowledgements 
 
@@ -120,7 +122,7 @@ Have Fun!
 
 Jochen Guenzel & Mario Perner 
 
-![V-JX](images/V-JX_top_view.jpg "V-JX perspective view")
+![VJX](images/V-JX_top_view.jpg "VJX perspective view")
 
 ## Project History 
 - 2021 - June: Projet start 

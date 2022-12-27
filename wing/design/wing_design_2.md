@@ -1,4 +1,4 @@
-# Project V-JX - Wing Design Part 2
+# Project VJX - Wing Design Part 2
 
 ## Wingplan - chord length distribution
 
@@ -20,9 +20,9 @@ If the induced drag (and thus the total drag) in the turns should be reduced as 
 
 How much would be the improvement of such an optimization in terms of induced drag? 
 
-The graph compares two wings, one with elliptical and one with "quite elliptical" (= slightly super elliptical) chord length distribution, such as V-JX. 
+The graph compares two wings, one with elliptical and one with "quite elliptical" (= slightly super elliptical) chord length distribution, such as VJX. 
 
-![Elliptical vs. V-JX](images/wing_drag_V-JX_vs_elliptical.png "Elliptical vs. V-JX")
+![Elliptical vs. VJX](images/wing_drag_V-JX_vs_elliptical.png "Elliptical vs. VJX")
 
 The calculated possible improvement of a strictly elliptical chord length distribution of 1.0% at Cl=0.8 is quite a typical value. We should keep this value in mind when it comes to discussing the necessary lift reserves in the outer wing later.
 
@@ -77,7 +77,7 @@ After a few iterations, the preliminary interim result is ready. An idealized wi
 
 Interim conclusion: The base design of the cord length distribution is relatively "sharp" with only a few lift reserves in the outer wing. Regarding lift reserves, however, an adapted flap depth should give an extra push... More on that later. 
 
-In the next part, we first compare the chord length distribution of V-JX with other, current F3F models and then take a closer look at the rudder depth distribution along wingspan. 
+In the next part, we first compare the chord length distribution of VJX with other, current F3F models and then take a closer look at the rudder depth distribution along wingspan. 
 
 ## next: [Wing Design Part 3](wing_design_3.md)
 

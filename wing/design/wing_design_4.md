@@ -1,4 +1,4 @@
-# Project V-JX - Wing Design Part 4
+# Project VJX - Wing Design Part 4
 
 ## Wing aerodynamic calculation with Xflr5
 
@@ -24,7 +24,7 @@ A note on the mixing or blending of two similar airfoils to create a new interme
 
 Finally, the wing appears on the screen in all its beauty ...
 
-![V-JX Xflr5Wing](images/V-JX_Xflr5_Wing.png)
+![VJX Xflr5Wing](images/V-JX_Xflr5_Wing.png)
 
 ... and the calculations can start. Important: Since only the wing has been modeled so far, the results are only suitable for qualitative or comparative studies, such as the effect of different chord length distributions. If the wing area of a variant changes, the weight must be readjusted in order to keep the wing load of the wing variants constant. 
 

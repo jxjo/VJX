@@ -1,4 +1,4 @@
-# Project V-JX - Wing Design Part 3
+# Project VJX - Wing Design Part 3
 
 
 ## Chord length distribution - Verification 
@@ -7,7 +7,7 @@ So far, a lot has been calculated, iterated and also some assumptions were made.
 
 One of the few ways to answer these questions is to check whether the current design is in the design corridor of successful F3F models described above. If so, we can at least assume with some certainty that we are not entirely wrong...
 
-For this purpose, the depth distribution of some current F3F models was measured from the published side views and scaled to the wingspan and root chord length of V-JX. 
+For this purpose, the depth distribution of some current F3F models was measured from the published side views and scaled to the wingspan and root chord length of VJX. 
 
 ![Comparsion chord length](images/comparsion_chord_distribution.png)
 
@@ -57,7 +57,7 @@ The angle of the rudder line determines sweep back of the wing where the rudder 
 *The second reason: It just looks prettier to me!
 Whether such small swepts of the rudder line have a significant influence on flight mechanics could not be researched so far. The majority of the current F3F models have a 0-degree hinge line.  On the other hand, "Orden" and especially "Shinto" have a clear "swept forward" of 1.5 and 2 degrees respectively. There seems to be a slight tendency.* 
 
-In the [data subdirectory](data) you'll the FLZ_vortex project file with the comparison of V-JX to an elliptical wing.
+In the [data subdirectory](data) you'll the FLZ_vortex project file with the comparison of VJX to an elliptical wing.
 
 In the 4th and final part of the wing design, we take a look at the performance of the wing in Xflr5 in order to finally determine the wing plan including the position of the airfoil sections. 
 
