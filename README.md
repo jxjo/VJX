@@ -36,8 +36,8 @@ Have a look at [VJX Project Overview](#vjx_project_overview) for more informatio
 * [Design - Outline, CAD](fuselage/fuselage_design.md) 
 * [Molds](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12289032) - on RCN (de)
 
-#### [Flight experiences](#flight_experiences)
-#### [VJX Project Overview](#vjx_project_overview)
+#### [Flight Experiences](#flight-experience)
+#### [Project Overview](#vjx-project-overview)
 #### [History](#project-history)
 #### [Acknowledgement](#acknowledgements)
 
@@ -94,10 +94,11 @@ Or more colloquially: "With good lift on the slope, it should be a fast, agile a
 
 The goal was set.  Now it's time to work!  😉
 
-We'll start with the [wing design...](wing/design/wing_design_1.md) 
+We'll start with the [Wing Design...](wing/design/wing_design_1.md) 
 
+---
 
-## Flight experiences 
+## Flight Experience
 
 <img src="./images/V-JX_at_WC2022_2.jpg" width="350" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="350" />
 <p align="left">
@@ -131,7 +132,7 @@ Although VJX is easy to fly being good-natured, VJX isn't "everybody darling" - 
 
 The table shows the VJX family tree as of November 2025.
 
-![VJX Project Overview](images/VJX_project_overview.png)
+![VJX Project](images/VJX_project_overview.png)
 
 to be continued... 
 
