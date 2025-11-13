@@ -9,27 +9,37 @@ VJX is a common project of Jochen Guenzel and Mario Perner where Jochen focuses 
 
 Within this repository, we want to make a "full stack description" - i.e. from the aerodynamic design to the final build out of molds. As far as possible, we will make the calculations and plans available "open source" and thus also invite to a lively discussion, in which we all will hopefully be a bit smarter in the end.
 
+#### Update 2024
+
+A new wing, called VJX.glide, is designed which complements the original VJX for medium to low conditions.
+
+#### Update 2025
+
+The original VJX wing has been revised and a little bit tamed to achieve better high lift capabilities. The new wing is called VJX.race. 
+
+Have a look at [VJX Project Overview](#actual_project_overview) for more information about the different developments and their current state. 
 
 ## Chapters
 
-### [Preliminary remarks on the procedure](#preliminary-remarks-on-the-procedure)
+#### [Preliminary remarks on the procedure](#preliminary-remarks-on-the-procedure)
 
-### [Wing](wing/design/wing_design_1.md)
+#### [Wing](wing/design/wing_design_1.md)
 * [Design - Airfoil sections, planform, control surfaces](wing/design/wing_design_1.md) 
 * [CAD](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12199653) - on RCN (de)
 * [Molds and Build](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12201770) - on RCN (de)
 
-###	[Tail](tail/tail_design.md)
-* [Design - Airfoil sections, planform, ruddervator](tail/tail_design.md) 
+####	[Tail](tail/tail_design.md)
+* [Design - Tail, rudder](tail/tail_design.md) 
 * [CAD and Molds](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12285083) - on RCN (de)
 
-### [Fuselage](fuselage/fuselage_design.md) 
+#### [Fuselage](fuselage/fuselage_design.md) 
 * [Design - Outline, CAD](fuselage/fuselage_design.md) 
 * [Molds](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12289032) - on RCN (de)
 
-### [Flight experiences](#flight_experiences)
-### [Acknowledgement](#acknowledgements)
-### [History](#project-history)
+#### [Flight experiences](#flight_experiences)
+#### [VJX Project Overview](#actual_project_overview)
+#### [History](#project-history)
+#### [Acknowledgement](#acknowledgements)
 
 
 ![VJX](images/V-JX_front_view.jpg "VJX perspective view")
@@ -53,7 +63,7 @@ Even if it may not be possible to achieve the last bit of improvement by looking
 
 A further aspect or guideline for the aerodynamic design, including the profile structure, was: Wherever possible and sensible, a more defensive solution with a "wide optimum" was given preference over exhaustion in a narrow area. 
 
-![Broad optmimum](images/Broad_optimum.png "Broad optmimum")
+![Broad optimum](images/Broad_optimum.png "Broad optimum")
 
 The danger of not hitting the "sweet spot" of a narrow optimum under competition flight conditions and thus having to accept significant performance losses far outweighs the prospect of minimal profits compared to a solution with a broad optimum.   
 
@@ -76,9 +86,9 @@ The property profile of VJX has been defined as follows with a comparative class
 | Acceleration				  |ooooo   |
 | Minimum curve radius		  |ooo     |
 | Speed in turn				  |ooooo   |
-| Manoeuvrability 			  |ooooo   |
+| Maneuverability 			  |ooooo   |
 | Flight stability			  |oooo    |
-| Good-naturedness 			  |ooooo   |
+| Good nature 	    		  |ooooo   |
 
 Or more colloquially: "With good lift on the slope, it should be a fast, agile at the same time good-natured rocket ...".
 
@@ -100,12 +110,30 @@ We'll start with the [wing design...](wing/design/wing_design_1.md)
 <sup>VJX on a training flight and on WC round 1- Pilot Thorsten Folkers - Click to see on Youtube </sup>
 </p>
 
-First flight experiences up to now showed a very close behaviour of VJX to the property profile which was defined when starting the project. 
+First flight experiences up to now showed a very close behavior of VJX to the property profile which was defined when starting the project. 
 
 VJX likes a wider, speed and energy oriented flight style. The faster, the better... Pilots emphasize the excellent acceleration when lift load is going towards 0 (Cl getting close to 0). 
 
 Crucial for good flight results is the intensive use of flaps - both for the static deflection within a certain flight phase (bowling, enter course, on course) and also dynamically using snap flap to optimize for the current Cl load (curve acceleration). 
-Although VJX is easy to fly being good-natured, VJX isn't "everybodies darling" - it want's to be tweaked from pilots who want to get the best out of the model in regard to a certain flight style. This said, it's fascinating what Thorsten got out of VJX at F3F WC 2022 in such a short time of preparation!
+Although VJX is easy to fly being good-natured, VJX isn't "everybody darling" - it want's to be tweaked from pilots who want to get the best out of the model in regard to a certain flight style. This said, it's fascinating what Thorsten got out of VJX at F3F WC 2022 in such a short time of preparation!
+
+## Project History 
+- 2021 - June: Project start 
+- 2021 - October: First prototype wing with vantage fuselage abd tail 
+- 2022 - April: Flight evaluations started (brought some delay) 
+- 2022 - July: Restart of flight evaluations with Tobias Reik and Thorsten Folkers
+- 2022 - September: First F3F contest participation in Denmark / Sealand
+- 2022 - October: F3F WC - several rounds flown by Thorsten Folkers
+- 2024 - New VJX.glide for medium to low conditions
+- 2025 - New VJX.race, a revision of the original VJX for medium to fast conditions  
+
+## VJX Project Overview
+
+The table shows the VJX family tree as of November 2025.
+
+![VJX Project Overview](images/VJX_project_overview.png)
+
+to be continued... 
 
 ## Acknowledgements 
 
@@ -124,10 +152,3 @@ Jochen Guenzel & Mario Perner
 
 ![VJX](images/V-JX_top_view.jpg "VJX perspective view")
 
-## Project History 
-- 2021 - June: Projet start 
-- 2021 - October: First prototype wing with vantage fuselage abd tail 
-- 2022 - April: Flight evaluations started (brought some delay) 
-- 2022 - July: Restart of flight evaluations with Tobias Reik and Thorsten Folkers
-- 2022 - September: First F3F contest participation in Denmark / Sealand
-- 2022 - October: F3F WC - serveral rounds flown by Thorsten Folkers
