@@ -17,7 +17,7 @@ A new wing, called VJX.glide, is designed which complements the original VJX for
 
 The original VJX wing has been revised and a little bit tamed to achieve better high lift capabilities. The new wing is called VJX.race. 
 
-Have a look at [VJX Project Overview](#actual_project_overview) for more information about the different developments and their current state. 
+Have a look at [VJX Project Overview](#vjx_project_overview) for more information about the different developments and their current state. 
 
 ## Chapters
 
@@ -37,7 +37,7 @@ Have a look at [VJX Project Overview](#actual_project_overview) for more informa
 * [Molds](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12289032) - on RCN (de)
 
 #### [Flight experiences](#flight_experiences)
-#### [VJX Project Overview](#actual_project_overview)
+#### [VJX Project Overview](#vjx_project_overview)
 #### [History](#project-history)
 #### [Acknowledgement](#acknowledgements)
 
