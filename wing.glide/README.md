@@ -33,15 +33,13 @@ In 2025, the original JX-GP airfoil family was completely revised and is now cal
 
 ---
 ### Gallery
-<img src="./images/Glide_14.jpg"  width="400" /> 
-<img src="./images/Glide_17.jpg"  width="400" /> 
-<img src="./images/pcup2025_06.jpg"  width="400" /> 
-<img src="./images/Sederon_28.jpg"  width="400" /> 
+<img src="./images/Glide_14.jpg"  width="45%" />    <img src="./images/Glide_17.jpg"  width="45%" /> 
+<img src="./images/pcup2025_06.jpg"  width="45%" /> <img src="./images/Sederon_28.jpg"  width="45%" /> 
 <p align="left">
 <sup>VJX.glide in contest - Photos courtesy of Pierre Rondel</sup>
 </p>
 
-<img src="./images/VJX.glide_at_Teck.jpg"  width="600" /> 
+<img src="./images/VJX.glide_at_Teck.jpg"  width="60%" /> 
 <p align="left">
 <sup>VJX.glide waiting for clearance at Teck  - Photos courtesy of Tobi Reik</sup>
 </p>
