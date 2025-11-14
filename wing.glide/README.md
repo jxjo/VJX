@@ -28,14 +28,22 @@ In 2025, the original JX-GP airfoil family was completely revised and is now cal
 
 - The airfoil family JX-GP3: `JX-GP3-100.dat`, `JX-GP3-55.dat`, `JX-GP3-30.dat`
 - A root airfoil `JX-G-Root.dat` that ensures a compatible wing section at the wing root
-- The [PlanformCreator2](https://github.com/jxjo/PlanformCreator2) project file, which allows generation of intermediate wing sections and a draft wing planform as a DXF file
+- The [PlanformCreator2](https://github.com/jxjo/PlanformCreator2) project file `VJX.glide.pc2`, which allows generation of intermediate wing sections and a draft wing planform as a DXF file
 - In the subdirectory `./dxf_airfoils`, you'll find a DXF of the wing planform and all airfoils prepared with a trailing edge thickness of 0.3mm, ready for import into CAD
 
 ---
 ### Gallery
-<img src="./images/VJX.glide_at_Teck.jpg"  width="800" /> 
+<img src="./images/Glide_14.jpg"  width="400" /> 
+<img src="./images/Glide_17.jpg"  width="400" /> 
+<img src="./images/pcup2025_06.jpg"  width="400" /> 
+<img src="./images/Sederon_28.jpg"  width="400" /> 
 <p align="left">
-<sup>VJX.glide waiting for clearance at Teck </sup>
+<sup>VJX.glide in contest - Photos courtesy of Pierre Rondel</sup>
+</p>
+
+<img src="./images/VJX.glide_at_Teck.jpg"  width="600" /> 
+<p align="left">
+<sup>VJX.glide waiting for clearance at Teck  - Photos courtesy of Tobi Reik</sup>
 </p>
 
 
