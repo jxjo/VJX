@@ -11,11 +11,11 @@ Within this repository, we want to make a "full stack description" - i.e. from t
 
 #### Update 2024
 
-A new wing, called VJX.glide, is designed which complements the original VJX for medium to low conditions.
+A new wing, called [VJX.glide](wing.glide/README.md), is designed which complements the original VJX for medium to low conditions.
 
 #### Update 2025
 
-The original VJX wing has been revised and a little bit tamed to achieve better high lift capabilities. The new wing is called VJX.race. 
+The original VJX wing has been revised and a little bit tamed to achieve better high lift capabilities. The new wing is called [VJX.race](wing.race/README.md). 
 
 Have a look at [VJX Project Overview](#vjx-project-overview) for more information about the different developments and their current state. 
 
@@ -27,6 +27,9 @@ Have a look at [VJX Project Overview](#vjx-project-overview) for more informatio
 * [Design - Airfoil sections, planform, control surfaces](wing/design/wing_design_1.md) 
 * [CAD](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12199653) - on RCN (de)
 * [Molds and Build](https://www.rc-network.de/threads/projekt-v-jx.11886149/post-12201770) - on RCN (de)
+
+#### [Wing VJX.glide](wing.glide/README.md)
+#### [Wing VJX.race](wing.race/README.md)
 
 ####	[Tail](tail/tail_design.md)
 * [Design - Tail, rudder](tail/tail_design.md) 
@@ -100,13 +103,13 @@ We'll start with the [Wing Design...](wing/design/wing_design_1.md)
 
 ## Flight Experience
 
-<img src="./images/V-JX_at_WC2022_2.jpg" width="350" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="350" />
+<img src="./images/V-JX_at_WC2022_2.jpg" width="45%" /> <img src="./images/V-JX_at_WC2022_3.jpg" width="45%" />
 <p align="left">
 <sup>VJX prototype at F3F WC 2022 with Vantage fuselage and tail flown by Thorsten Folkers - Photos courtesy Pierre Rondel </sup>
 </p>
 
-[<img src="https://img.youtube.com/vi/vzmBOqD7ym0/maxresdefault.jpg" width="350" />](https://youtu.be/vzmBOqD7ym0)
-[<img src="https://img.youtube.com/vi/EWIMaU6y8Lc/maxresdefault.jpg" width="350" />](https://youtu.be/EWIMaU6y8Lc)
+[<img src="https://img.youtube.com/vi/vzmBOqD7ym0/maxresdefault.jpg" width="45%" />](https://youtu.be/vzmBOqD7ym0)
+[<img src="https://img.youtube.com/vi/EWIMaU6y8Lc/maxresdefault.jpg" width="45%" />](https://youtu.be/EWIMaU6y8Lc)
 <p align="left">
 <sup>VJX on a training flight and on WC round 1- Pilot Thorsten Folkers - Click to see on Youtube </sup>
 </p>
