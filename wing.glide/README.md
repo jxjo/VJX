@@ -13,7 +13,7 @@ Main design objectives:
 
 The differences between the various VJX wings can be taken from the following comparison table:
 
-<img src="./images/VJX_wings_overview.png"  width="600" /> 
+<img src="./images/VJX_wings_overview.png"  width="700" /> 
 
 Flight reports from numerous pilots now confirm that the desired handling characteristics have been achieved exceptionally well.
 
